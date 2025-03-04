@@ -38,6 +38,11 @@ Open Palm: 100%
 Closed Fist: 90%
 Index Finger: 70%
 
+<video width="640" height="360" controls>
+  <source src="hand_shapes.avi" type="video/avi">
+  Your browser does not support the video tag.
+</video>
+
 The results can be seen in the video uploaded above.
 
 Authors
