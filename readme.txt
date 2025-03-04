@@ -1,5 +1,5 @@
 Hand Gesture Recognition Project
-This repository contains the code and documentation for a hand gesture recognition system developed as part of Assignment 2. The project implements algorithms to recognize hand shapes or gestures from video frames captured by a webcam and displays the detected gesture on a graphical interface.
+This repository contains the code and documentation for a hand gesture recognition system. The project implements algorithms to recognize hand shapes or gestures from video frames captured by a webcam and displays the detected gesture on a graphical interface.
 
 Project Overview
 The goal of this project is to design and implement an efficient system to detect and classify various hand gestures. The system uses a combination of image processing techniques such as skin detection, binary conversion, motion detection, circularity evaluation, and template matching to identify gestures including:
@@ -38,6 +38,7 @@ Open Palm: 100%
 Closed Fist: 90%
 Index Finger: 70%
 
+The results can be seen in the video uploaded above.
 
 Authors
 Abhaya Shukla (U42968713)
